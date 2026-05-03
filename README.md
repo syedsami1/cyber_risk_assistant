@@ -21,7 +21,7 @@ To set up and run the Cyber Risk Assistant, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/syedsami1/cyber_risk_assistant.git
     cd cyber_risk_assistant
     ```
 
